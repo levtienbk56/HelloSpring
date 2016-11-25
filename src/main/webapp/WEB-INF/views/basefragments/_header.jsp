@@ -12,8 +12,7 @@
 				<span class="sr-only">Toggle navigation</span> Menu <i
 					class="fa fa-bars"></i>
 			</button>
-			<a class="navbar-brand page-scroll" href="#page-top">Start
-				Bootstrap</a>
+			<a class="navbar-brand page-scroll" href="#page-top">大変な研修</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -21,11 +20,10 @@
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li class="hidden"><a href="#page-top"></a></li>
-				<li><a class="page-scroll" href="#services">Services</a></li>
-				<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
-				<li><a class="page-scroll" href="#about">About</a></li>
-				<li><a class="page-scroll" href="#team">Team</a></li>
-				<li><a class="page-scroll" href="#contact">Contact</a></li>
+				<li><a class="page-scroll" href="#services">専門</a></li>
+				<li><a class="page-scroll" href="#portfolio">スケジュール</a></li>
+				<li><a class="page-scroll" href="#about">レポート</a></li>
+				<li><a class="page-scroll" href="#contact">自己紹介</a></li>
 			</ul>
 		</div>
 		<!-- /.navbar-collapse -->
